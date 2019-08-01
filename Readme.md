@@ -4,7 +4,7 @@ UNIX is an operating system which was first developed in the 1960s, and has been
 
 ## About
 
-This repo contains some basic introductory scripts for Unix-based operating systems.
+This repo contains some basic introductory scripts for Unix-based operating systems part of Calcutta University Curriculum for Computer Science Honors.
 
 ### Prerequisites
 
